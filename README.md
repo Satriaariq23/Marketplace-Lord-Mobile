@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MarketplaceLM
 
 Website jual beli akun Lord Mobile berbasis Laravel 12 dengan fitur:
@@ -94,3 +95,6 @@ Akses dashboard admin di:
 
 - Untuk upload video besar, pastikan `upload_max_filesize` dan `post_max_size` di `php.ini` memadai.
 - Untuk produksi, gunakan kredensial Midtrans production dan set `MIDTRANS_IS_PRODUCTION=true`.
+=======
+# Marketplace-Lord-Mobile
+>>>>>>> 887fc922b85243ea6f94bfc9059194f921776ddd
